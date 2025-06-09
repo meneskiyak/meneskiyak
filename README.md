@@ -1,6 +1,4 @@
-## 💻 meneskiyak
-
-👋 Merhaba! Ben **Muhammed Enes Kıyak**.  
+###👋 Merhaba! Ben **Muhammed Enes Kıyak**.  
 🎓 Bilgisayar Mühendisliği öğrencisiyim / Backend Developer yolundayım.  
 🚀 Java & Spring Boot, PostgreSQL, Docker ve Git teknolojileriyle ilgileniyorum.  
 📈 Bankacılık ve kurumsal yazılım projelerinde backend geliştirmeye odaklanıyorum.
