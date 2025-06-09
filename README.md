@@ -7,4 +7,4 @@
 - 🔐 Spring Security & JWT
 - 🗃️ SQL & NoSQL veritabanları (PostgreSQL, MongoDB)
 - ☁️ Docker + GitHub Actions ile CI/CD
-- 📨 Apache Kafka ile mesajlaşma sistemleri
+- 📨 Apache Kafka
